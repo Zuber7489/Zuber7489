@@ -9,7 +9,7 @@ Hi there 👋, I'm Mohammad Zuber
 🚀 Always eager to learn new technologies and take on challenges.
 🤝 Open to collaborating on interesting projects.
 
-📫 How to reach me: [Portfolio](https://www.linkedin.com/in/nirmal-choudhary1/) | [Email](mailto:zs535659@gmail.com)
+📫 How to reach me: [Portfolio](https://zubershaikhportfolio.netlify.app/) | [Email](mailto:zs535659@gmail.com)
 🌐 Socials:
 Portfolio GitHub
 
