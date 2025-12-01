@@ -7,7 +7,7 @@
 <br><br>
 # 💫 About Me:<br>
 👨‍💻 Aspiring Angular Developer.<br>🌱 Currently exploring Nodejs & MongoDB Database.<br>💻 Working on web development projects using HTML, CSS, JavaScript, and Angular.<br>🚀 Always eager to learn new technologies and take on challenges.<br>🤝 Open to collaborating on interesting projects.<br>
-<br>📫 How to reach me: [Portfolio](https://zubershaikhportfolio.netlify.app/) | [Email](mailto:zs535659@gmail.com)
+<br>📫 How to reach me: [Portfolio](https://zuberportfolio43.netlify.app/) | [Email](mailto:zs535659@gmail.com)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-zuber-bb8936248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/Zuber7489)
